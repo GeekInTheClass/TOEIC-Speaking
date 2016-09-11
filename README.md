@@ -31,6 +31,55 @@
 6. **전화 안내문**: 해당 번호를 누르라는 구체적인 지시가 나오는 명령/제안문이 포함된 전화 메시지
 > **Press one** if you want to leave a message.
 
+###1-3. 고득점을 위한 팁
+
+####1-3-1. 정확한 발음
+1. **f  vs  v**
+
+2. **p  vs  b**
+
+3. **ʃ  vs  ʒ**
+
+4. **ʧ  vs  ʤ**
+
+5. **x - [ks]  vs  [gz]**
+
+6. **w**
+
+7. **th - [ɵ]  vs  [ɚ]**
+
+8. **r  vs  l**
+
+9. **s  vs  z**
+
+10. **tr  vs  dr**
+
+####1-3-2. 단어의 강세
+> 각각의 단어에는 고유의 강세가 존재하기에, 강세를 지켜 발음해야 자연스럽게 들린다.
+
+- 1음절에 강세가 오는 단어
+> c<b>ó</b>mfortable / l<b>ó</b>cal / p<b>á</b>ssenger / **phótograph**
+> p<b>ó</b>ssible / p<b>ú</b>rchase / r<b>é</b>cognize / t<b>é</b>mperature
+
+- 2음절에 강세가 오는 단어
+> appr<b>é</b>ciate / bel<b>ó</b>nging / comm<b>ú</b>nity / em<b>é</b>rgency
+> ev<b>é</b>nt / exc<b>é</b>pt / **photógrapher** / sugg<b>é</b>st
+
+- 3음절에 강세가 오는 단어
+> anniv<b>é</b>rsary / engin<b>é</b>er / inconv<b>é</b>nience / indiv<b>í</b>dual
+> opport<b>ú</b>nity / recre<b>á</b>te / repres<b>é</b>ntative / unbel<b>í</b>evable
+
+- 중성모음 현상이 있는 경우
+> <u>a</u>b<b>ó</b>ut / <u>a</u>g<b>ó</b> / <u>a</u>gr<b>é</b>e / <u>a</u>tt<b>é</b>ntion
+> c<u>o</u>mpl<b>á</b>in / f<b>á</b>v<u>o</u>rite / r<b>é</b>gul<u>a</u>r / t<u>o</u>d<b>á</b>y
+
+- 지역 명칭 읽기
+> <b>Á</b>frica / Argent<b>í</b>na / Braz<b>í</b>l / Los <b>Á</b>ngeles
+> Manh<b>á</b>ttan / San Franc<b>í</b>sco / V<b>í</b>etnam / W<b>á</b>shington
+
+####1-3-3. 연음법칙
+> 한 단어씩 읽을 때에는 단어 각각의 발음을 지키지만, 문장을 읽을 때에는 연음 법칙을 적용해야 한다.
+
 
 
 ##2. Describe a picture (사진 묘사하기)

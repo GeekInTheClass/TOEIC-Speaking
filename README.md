@@ -44,25 +44,25 @@
 
 ###2-2. 빈출 사진
 1. **쇼핑 관련**: 의류/식료품 가게, 재래시장, 백화점 등 사람이 물건을 구경하거나 구매하는 모습이 담긴 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-1.jpg "쇼핑 관련")
+> <img src="https://camo.githubusercontent.com/de0273173fdf5b1c9e1f7a44780bc8ecaa6cb6ef/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d312e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-1.jpg" width="480" height="360"/>
 
 2. **사무실**: 회의실, 사무 공간, 직원 휴식 공간, 회사 로비 등 직장 생활의 다양한 모습이 담긴 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-2.jpg "사무실")
+> <img src="https://camo.githubusercontent.com/7f9d3aad0080e0ca85b23eb08ea6bbb07ff28417/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d322e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-2.jpg" width="480" height="360"/>
 
 3. **식당**: 뷔페/일반 식당, 패스트푸드점, 커피숍 등 음식이나 음료를 즐기는 모습이 담긴 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-3.jpg "식당")
+> <img src="https://camo.githubusercontent.com/0a66659c6e5aee637b96d06f5548aafdcf0f2bb4/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d332e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-3.jpg" width="480" height="360"/>
 
 4. **거리**: 도심 속 많은 사람과 차가 다니는 도로 혹은 한산한 거리의 모습이 담긴 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-4.jpg "거리")
+> <img src="https://camo.githubusercontent.com/0921cb6a18aa3ba1f280e02fe14f9fed2ffb41d6/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d342e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-4.jpg" width="480" height="360"/>
 
 5. **물가**: 호수, 부둣가, 바다, 연못 등 물가가 배경인 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-5.jpg "물가")
+> <img src="https://camo.githubusercontent.com/bf46b33032c727f886f4bd4aff876c78e3d56308/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d352e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-5.jpg" width="480" height="360"/>
 
 6. **실내**: 학교 교실, 도서관, 서점, 실험실, 공항, 호텔 로비 등 실내가 배경인 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-6.jpg "실내")
+> <img src="https://camo.githubusercontent.com/219cdd3d154c5a2ade93fa5a5894ece4713eb727/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d362e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-6.jpg" width="480" height="360"/>
 
 7. **실외**: 거리 공연, 공원, 테마 파크, 축제 등 실외가 배경인 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-7.jpg "실외")
+> <img src="https://camo.githubusercontent.com/f88372714b1775b4be6e66083bfb12467d0f6661/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d372e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-7.jpg" width="480" height="360"/>
 
 
 
@@ -115,6 +115,8 @@
 
 
 ##5. Propose a solution (해결책 제안하기)
+> '해결책 제안하기'에서는 음성 지문을 듣고 상황과 문제점을 파악한 뒤, 적절한 해결책을 제시하는 파트이다. 음성 지문의 내용은 **화면에 따로 표시되지 않는다**.
+
 ###5-1. 기본 정보
 - 문항 수: 1개 (Q10)
 - 준비시간: 30초
@@ -122,10 +124,37 @@
 - 채점 포인트: 발음, 억양, 강세, 문법, 어휘, 내용의 일관성, 문장의 완성도
 
 ###5-2. 빈출 상황
+1. **배송**: '물품을 빠뜨리고 배송했어요. 어떡하죠?'
+
+2. **예약**: '직원의 실수로 중복 예약되었습니다.'
+
+3. **잘못된 행동 개선**: '직원들이 퇴근할 때 컴퓨터를 끄지 않아 전기 낭비가 심합니다.'
+
+4. **공지 안내**: '변동 사항을 참가자들에게 어떻게 알릴까요?'
+
+5. **정리 및 위치 안내**: '손님들이 매장 내 물건을 찾기가 어려워 불만이 많습니다.'
+
+6. **홍보 전략**: '신제품을 홍보하기 위해 TV 광고 말고 어떤 방법이 있을까요?'
+
+7. **직원 업무 능력**: '이번 신입 사원들의 컴퓨터 활용 능력이 많이 떨어져 문제입니다.'
+
+8. **직원 업무 보상**: '직원들이 고생해준 덕분에 매출이 많이 올랐습니다. 어떻게 보상하는 것이 좋을까요?'
+
+9. **적임자 찾기**: '회사의 중국 진출을 앞두고 적임자를 뽑으려고 합니다. 어떤 방법이 좋을까요?'
+
+10. **물건 주인 찾아주기**: '공항에서 누군가 놓고 간 가방을 발견했습니다. 어떻게 주인을 찾아주어야 할까요?'
+
+11. **고객 불만**: '고객들이 저희 호텔 서비스에 불만이 많습니다. 무엇을 개선해야 할까요?'
+
+12. **선택 사항 제안**: '프린터를 구매하려는데 흑백 프린터와 컬러 프린터 중 무엇을 사는 게 좋을까요?'
+
+13. **상황 해결 조언**: '이번 이사회를 열기에 적절한 장소를 추천해주세요.'
 
 
 
 ##6. Express an opinion (의견 제시하기)
+> '의견 제시하기'에서는 화면에 제시된 질문에 대한 자신의 의견을 말해야 한다. 제시된 문제의 유형과 질문의 의도를 빠르게 파악한 뒤, 자신의 의견을 정한다. 그리고, 그에 적합한 이유 한 가지와 구체적인 예시나 근거를 덧붙여 1분 동안 자신의 의견을 말한다.
+
 ###6-1. 기본 정보
 - 문항 수: 1개 (Q11)
 - 준비시간: 15초
@@ -133,3 +162,10 @@
 - 채점 포인트: 발음, 억양, 강세, 문법, 어휘, 내용의 일관성, 문장의 완성도, 질문 이해력
 
 ###6-2. 빈출 질문
+1. **직장**: 인턴쉽 경험, 직장 동료 문제 등 회사 생활에 대한 의견을 묻는 질문
+
+2. **사업**: 개인 사업의 장점, 사업 홍보 방안, 사업 파트너와의 관계, 성공한 사업가의 자질 등 사업에 대한 의견을 묻는 질문
+
+3. **사회적 이슈**: 정치가의 행보, 유명인사의 처세, SNS의 영향, 환경 문제, 기술 발전의 영향 등 전반적인 사회 이슈에 대한 의견을 묻는 질문
+
+4. **교육**: 초ㆍ중ㆍ고등학교의 교육 과목 및 교우 관계, 대학 교육 내용, 취업과의 상관관계 등 교육에 대한 의견을 묻는 질문

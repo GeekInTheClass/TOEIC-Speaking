@@ -44,25 +44,25 @@
 
 ###2-2. 빈출 사진
 1. **쇼핑 관련**: 의류/식료품 가게, 재래시장, 백화점 등 사람이 물건을 구경하거나 구매하는 모습이 담긴 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-1.jpg "쇼핑 관련")
+> <img src="https://camo.githubusercontent.com/de0273173fdf5b1c9e1f7a44780bc8ecaa6cb6ef/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d312e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-1.jpg" width="480" height="360"/>
 
 2. **사무실**: 회의실, 사무 공간, 직원 휴식 공간, 회사 로비 등 직장 생활의 다양한 모습이 담긴 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-2.jpg "사무실")
+> <img src="https://camo.githubusercontent.com/7f9d3aad0080e0ca85b23eb08ea6bbb07ff28417/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d322e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-2.jpg" width="480" height="360"/>
 
 3. **식당**: 뷔페/일반 식당, 패스트푸드점, 커피숍 등 음식이나 음료를 즐기는 모습이 담긴 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-3.jpg "식당")
+> <img src="https://camo.githubusercontent.com/0a66659c6e5aee637b96d06f5548aafdcf0f2bb4/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d332e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-3.jpg" width="480" height="360"/>
 
 4. **거리**: 도심 속 많은 사람과 차가 다니는 도로 혹은 한산한 거리의 모습이 담긴 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-4.jpg "거리")
+> <img src="https://camo.githubusercontent.com/0921cb6a18aa3ba1f280e02fe14f9fed2ffb41d6/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d342e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-4.jpg" width="480" height="360"/>
 
 5. **물가**: 호수, 부둣가, 바다, 연못 등 물가가 배경인 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-5.jpg "물가")
+> <img src="https://camo.githubusercontent.com/bf46b33032c727f886f4bd4aff876c78e3d56308/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d352e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-5.jpg" width="480" height="360"/>
 
 6. **실내**: 학교 교실, 도서관, 서점, 실험실, 공항, 호텔 로비 등 실내가 배경인 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-6.jpg "실내")
+> <img src="https://camo.githubusercontent.com/219cdd3d154c5a2ade93fa5a5894ece4713eb727/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d362e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-6.jpg" width="480" height="360"/>
 
 7. **실외**: 거리 공연, 공원, 테마 파크, 축제 등 실외가 배경인 사진
-> ![](https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-7.jpg "실외")
+> <img src="https://camo.githubusercontent.com/f88372714b1775b4be6e66083bfb12467d0f6661/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d372e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-7.jpg" width="480" height="360"/>
 
 
 

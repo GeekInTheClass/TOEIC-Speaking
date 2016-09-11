@@ -87,31 +87,31 @@
 > mat<b>te</b>r / bet<b>te</b>r
 
 ####1-3-4. 숫자 및 단위 읽기
-> 숫자가 0으로 시작하는 경우에는 0을 'oh'가 아닌 'zero'로 읽는다.
+> 숫자가 0으로 시작하는 경우에는 0을 'oh'가 아닌 'zero'로 읽는다.<br>
 > 전화번호는 한 자리씩 따로 읽지만, 1-800과 같은 전화번호는 'one-eight-hundred'로 읽는다.
 
 1. 항공편
-> Flight #015 → filght number **zero**-one-five
+> Flight #015 → filght number **zero**-one-five<br>
 > Flight #152 → flight number one-five-two
 
 2. 방 번호
-> Room 19 → room nineteen
+> Room 19 → room nineteen<br>
 > Room 201 → room two-oh-one
 
 3. 전화번호
-> 552-1357 → five-five-two / one-three-five-seven
+> 552-1357 → five-five-two / one-three-five-seven<br>
 > 1-800-555-5050 → **one-eight-hundred** / five-five-five / five-oh-five-oh
 
 4. 화폐 단위
-> $32.50 → thirty-two dollars and fifty cents
+> $32.50 → thirty-two dollars and fifty cents<br>
 > €65.10 → sixty-five euros and ten cents
 
 5. 라디오 주파수
-> 102.5FM → one-oh-two point five FM
+> 102.5FM → one-oh-two point five FM<br>
 > 95.5FM → ninety-five point five FM
 
 6. 기타
-> 23℃ → twenty-three degrees Celsius
+> 23℃ → twenty-three degrees Celsius<br>
 > 50% → fifty percent
 
 ####1-3-5. 의미 단위로 끊어 읽기

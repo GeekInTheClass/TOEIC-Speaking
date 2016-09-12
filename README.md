@@ -229,8 +229,7 @@
 > 소수 인물이 나오는 경우 인물 개인을 상세히 묘사하고, 다수 인물이 나오는 경우 유사한 행동을 하는 인물들을 묶어서 한 번에 묘사한다.
 <p></p>
 > *There are <b>several people</b>.*<br>
-> *<b>Some of them</b> are standing up.*
-<p></p>
+> *<b>Some of them</b> are standing up.*<br>
 
 - 빈출 표현
 > several people / many people / one of them / both of them / some of them / most of them
@@ -238,8 +237,7 @@
 ####2-3-6. 사물 표현
 > 사물의 상태는 **수동태** 문장으로 표현한다.
 <p></p>
-> *Many items <b>are displayed</b>.*
-<p></p>
+> *Many items <b>are displayed</b>.*<br>
 
 - 빈출 표현
 > be displayed / be arranged / be posted / be parked / be stacked up / be piled up

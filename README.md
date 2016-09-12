@@ -230,17 +230,19 @@
 <p></p>
 > *There are <b>several people</b>.*<br>
 > *<b>Some of them</b> are standing up.*
+<p></p>
 
 - 빈출 표현
->> several people / many people / one of them / both of them / some of them / most of them
+> several people / many people / one of them / both of them / some of them / most of them
 
 ####2-3-6. 사물 표현
 > 사물의 상태는 **수동태** 문장으로 표현한다.
 <p></p>
 > *Many items <b>are displayed</b>.*
+<p></p>
 
 - 빈출 표현
->> be displayed / be arranged / be posted / be parked / be stacked up / be piled up
+> be displayed / be arranged / be posted / be parked / be stacked up / be piled up
 
 ####2-3-7. 느낌/의견 표현
 > 사진과 관련된 추측이나 개인적인 느낌으로 마무리한다.

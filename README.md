@@ -231,7 +231,7 @@
 > *There are <b>several people</b>.*<br>
 > *<b>Some of them</b> are standing up.*
 
-- 빈출 표현
+- 빈출 표현<br>
 > several people / many people / one of them / both of them / some of them / most of them
 
 ####2-3-6. 사물 표현
@@ -239,7 +239,7 @@
 <p></p>
 > *Many items <b>are displayed</b>.*
 
-- 빈출 표현
+- 빈출 표현<br>
 > be displayed / be arranged / be posted / be parked / be stacked up / be piled up
 
 ####2-3-7. 느낌/의견 표현

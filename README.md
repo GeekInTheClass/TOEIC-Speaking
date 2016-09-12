@@ -115,10 +115,17 @@
 > 50% → fifty percent
 
 ####1-3-5. 의미 단위로 끊어 읽기
-> COMING SOON...
+- 전치사구의 앞과 뒤
+- 명사절/형용사절/부사절을 이끄는 접속사 앞
+- 준동사구의 앞
+- 길이가 긴 명사
+- 구두점 뒤
 
 ####1-3-6. 강조와 억양
 > COMING SOON...
+
+###1-4. 예시
+> Attention passengers welcome on board PK 423 from St. Luis to Chicago. Once we reach cruising altitude our crew members will pass out headsets, snacks, and drinks. Until then, please remain seated with your seatbelts fastened. Our expected arrival time is 7:20 P.M. We hope you all enjoy the flight.
 
 <br><br>
 ##2. Describe a picture (사진 묘사하기)
@@ -151,6 +158,98 @@
 
 7. **실외**: 거리 공연, 공원, 테마 파크, 축제 등 실외가 배경인 사진
 > <img src="https://camo.githubusercontent.com/f88372714b1775b4be6e66083bfb12467d0f6661/68747470733a2f2f73332d61702d6e6f727468656173742d322e616d617a6f6e6177732e636f6d2f746f6569632d737065616b696e672f322d372e6a7067" data-canonical-src="https://s3-ap-northeast-2.amazonaws.com/toeic-speaking/2-7.jpg" width="480" height="360"/>
+
+###2-3. 고득점을 위한 팁
+
+####2-3-1. 배경 장소 표현
+> 전치사도 함께 기억하는 것이 좋다.
+<p></p>
+> *This is a picture taken <b>at a store</b>.*
+
+- **at** a park / a restaurant / a store / a waterfront
+- **in** a library / an office / the street
+- **(전치사 없음) inside / indoors / outside / outdoors**
+
+####2-3-2. 위치 표현
+> 인물이나 사물의 사진 속 정확한 위치를 언급하는 것이 좋다.
+<p></p>
+> *<b>On the left side of the picture</b>, there is a woman.*<br>
+> *Many trees are standing <b>along</b> the road.*
+
+- 구도 표현
+> on the right side of the picture<br>
+> in the background of the picture<br>
+> on the lower left side of the picture
+
+- 위치 표현
+> at / under / between / on / next to / in / in front of / around / behind / along
+
+####2-3-3. 인물 외형 표현
+> have와 wear를 구분하여 사용한다.
+<p></p>
+> *She has <b>long brown hair</b>.*<br>
+> *She is wearing <b>a red dress</b>.*
+
+- 외모 표현하기
+> long hair / a pony tail / black hair / blond hair / a mustache / a beard
+
+- 복장 표현하기
+> a short-sleeved shirt / pants / jeans / a dress / a swimsuit / a life jacket
+
+- 기타
+> a tie / a necklace / glasses / sunglasses / gloves / high heels
+
+####2-3-4. 빈출 사진별 주요 동작 표현
+> 사진 속의 인물은 항상 어떠한 행동을 하고 있는 중이기 때문에 **현재진행형** 시제를 사용한다.
+<p></p>
+> *She is <b>looking</b> at a customer and <b>handing over</b> a credit card.*
+
+1. 쇼핑
+> handing over / receiving / pushing a cart / shopping around / purchasing / waiting in line
+
+2. 사무실
+> working / sitting around / giving a presentation / using a laptop / having a meeting / talking on a phone
+
+3. 식당
+> eating / picking up / holding a menu / making an order / taking an order / bending forward
+
+4. 거리
+> walking / passing by / carrying a bag / riding a bicycle / pushing a baby stroller / waiting for a bus
+
+5. 물가
+> swimming / padding / lying down / enjoying the sun / making a sand castle / walking along the short-sleeved
+
+6. 실내
+> writing on a chart / doing an experiment / looking through / focusing on / holding up / participating in
+
+7. 실외
+> relaxing / sitting on a bench / taking a walk / having a picnic / performing / surrounding
+
+####2-3-5. 인물(사물) 수에 따른 표현
+> 소수 인물이 나오는 경우 인물 개인을 상세히 묘사하고, 다수 인물이 나오는 경우 유사한 행동을 하는 인물들을 묶어서 한 번에 묘사한다.
+<p></p>
+> *There are <b>several people</b>.*<br>
+> *<b>Some of them</b> are standing up.*
+
+- 빈출 표현
+> several people / many people / one of them / both of them / some of them / most of them
+
+####2-3-6. 사물 표현
+> 사물의 상태는 **수동태** 문장으로 표현한다.
+<p></p>
+> *Many items <b>are displayed</b>.*
+
+- 빈출 표현
+> be displayed / be arranged / be posted / be parked / be stacked up / be piled up
+
+####2-3-7. 느낌/의견 표현
+> 사진과 관련된 추측이나 개인적인 느낌으로 마무리한다.
+<p></p>
+> *<b>Maybe</b>, the customer is buying some clothes.*<br>
+> *<b>It looks like</b> people are having a meeting.*
+
+###2-4. 예시
+> COMING SOON...
 
 <br><br>
 ##3. Respond to questions (질문에 답하기)
